@@ -1,2 +1,2 @@
 # Time-Series-Forcasting
-Performing sentiment analysis on Twitter data using Recurrent Neural Networks (RNNs) implemented in PyTorch.
+A comprehensive set of scripts that can independently handle time series forecasting with co-variates using different Python packages.
